@@ -1,0 +1,53 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27 nov. 2022, 21:58:00
+    Author     : Dereck Santander
+*/
+.button {
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #02a25f 0%, #02e696 100%),
+        radial-gradient(center 50% 50%, radius 100%, #02a25f, #02e696);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 2,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+    -fx-text-fill:white;
+}
+.button:hover {
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 50%, #2fba89 0%, #139165 100%),
+        radial-gradient(center 50% 50%, radius 100%, #2fba89, #139165);
+}
+.button:pressed {
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+.root {
+    -fx-background-color:black;
+}
+
+.label{
+    -fx-text-fill:white;
+}
+
+.text-field{
+    -fx-background-color:black;
+    -fx-border:1px;
+    -fx-border-color:white;
+    -fx-text-fill:white;
+}
+.combo-box{
+    -fx-background-color:black;
+    -fx-border:1px;
+    -fx-border-color:white;
+    -fx-text-fill:white;
+}
+
+.combo-box .list-cell:focused {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}

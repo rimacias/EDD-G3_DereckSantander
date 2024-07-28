@@ -1,0 +1,112 @@
+3;moisesCaicedo;Me llama la atención este tipo de videojuegos;Call of Duty
+4;alfaro;Uno de los mejores juegos de la época;Call of Duty
+1;mbravop;No me gustó, la historia es muy mala;Call of Duty
+2;ffacod;Pudo ser mejor, pero tenía varios errores;Call of Duty
+4;galindez;Alguien sabe cómo hacer la última misión? Estoy atrapado;Call of Duty
+3;pervis;Atractivo comparando su fecha de lanzamiento;Call of Duty
+5;qatari;Me encantó, tiene todo lo necesario.;Call of Duty
+5;afqwe;El mejor juego de la saga, sin dudas!!!!;Call of Duty
+4;pepeR;Solo le falta mejorar el multijugador y es excelente;Call of Duty 2
+5;qwerty;Excelente juego, disfruté mucho la historia y los modos extras.;Call of Duty 2
+1;jesse;Siento que no es tan realista como en el trailer;Call of Duty 2
+5;Fideo;Lo disfruté, aparte del juego sirve para aprender del pasado;Call of Duty 2
+1;kruger;No me funcionó el juego :(;Call of Duty 2
+3;dereck;No me convenció la jugabilidad;Call of Duty 2
+4;juanP;Me gustó más que la entrega anterior;Call of Duty 2
+3;haloPlayer;El multijugador a veces no me funciona bien;Call of Duty Modern Warfare
+1;frankZzz;No entiendo el juego. Es muy agresivo;Call of Duty Modern Warfare
+5;JuanF;El juego perfecto, espero muchos Cod’s más;Call of Duty Modern Warfare
+1;german;Hay ciertas escenas un poco fuertes. No lo recomiendo para mis hijos.;Call of Duty Modern Warfare
+4;lautaro;Mejorar un poco más los servidores y es el juego perfecto;Call of Duty Modern Warfare
+3;popStar;Mejora mucho con el multijugador;Call of Duty Modern Warfare
+4;messi;Esta nueva entrega me causó nuevas emociones que las anteriores no lo lograron;Call of Duty Modern Warfare
+3;polispol;El mapa es muy grande pero aparte de eso perfecto;Fortnite
+1;Ampeter;No entiendo esta modalidad, que es eso de construir???? Horrible.;Fortnite
+5;jugador666;Uno de los mejores juegos del año, le da un nuevo aire a este tipo de juegos;Fortnite
+2;EscuadronK;Se disfruta más está forma de jugar pero es muy muy difícil hacerlo;Fortnite
+3;recebaxd;Que se nos haga difícil a todos los jugadores es lo más interesante del juego;Fortnite
+4;typo;Me gusta la variedad de modos que tiene el juego, y aparte lo novedoso es impresionante;Fortnite
+2;XxxTentacion;Disfrutable aunque aún no logro crear un servidor para jugar con mis amigos;Minecraft
+4;Eminem;El hecho que se puedan incluir mods y jugar con amigos lo hace el juego ideal;Minecraft
+1;Zzzara;La calidad es muy mala, y estos cubitos son feos;Minecraft
+1;Kevin;No se entiende bien, debería haber un tutorial para saber qué botones se usan;Minecraft
+5;Snoop Dogg;El juego perfecto para jugar con muchas personas y es increíblemente personalizable;Minecraft
+5;$amuel;Es perfecto, las nuevas modalidades, la calidad es impresionante.;Fifa 22
+1;felicidad;El mismo juego de siempre y la gente lo sigue comprando…;Fifa 22
+3;bbenito;El modo carrera no me funciona :(;Fifa 22
+4;FifaPlayer;Mucha mejoría comparada a Fifa 21;Fifa 22
+2;kkalil;Algo mejor que el 21 pero igual no me convence;Fifa 22
+3;cxcd;Buen juego pero tiene algunos bugs;Fifa 22
+2;FailXd;La lógica del juego es un poco absurda, no entiendo en qué se basaron para la construcción;Cities Skylines
+3;Banki;Es entretenido pero al tener una ciudad grande tiene ciertos glitchs;Cities Skylines
+1;Predador;Quería jugar las nuevas opciones que vi en YouTube, pero el dlc cuesta $155. Ni loco!;Cities Skylines
+4;PeleJj;Es increíble, la calidad de los gráficos fue lo que más me llamó la atención;Cities Skylines
+1;OnsJul;El juego era prometedor, pero los textos son muy pequeños. No se pueden leer.;Cities Skylines
+5;Kakfk;Es una experiencia totalmente nueva, da la sensación que somos alcaldes en la vida real. Me gusta mucho;Cities Skylines
+2;Gatito;Me divertí pero el juego no es tan bueno, hay un montón de eventos que son tan aleatorios que es frustrante;Far Cry 5
+3;Pelado;Los gráficos son buenos pero es que la historia es muy mala, no tiene sentido;Far Cry 5
+5;Munnnd;El juego es perfecto, calidad, desempeño, lo hace todo tan bien que es impresionante.;Far Cry 5
+1;Crash;Es muy repetitivo respecto a sus entregas anteriores. Nada nuevo;Far Cry 5
+1;Kuumba;La IA del juego es una absoluta basura, no sirven para nada;Far Cry 5
+4;Blanco;Me gusta todo, solo que hay algunos detalles que no deberían ser así como los enfrentamientos con los enemigos;Far Cry 5
+1;ChecoPerez;En ciertos momentos la jugabilidad se rompe por los gráficos excesivos;Forza Horizon 4
+3;lokoXD;Muy buenos gráficos que se mantienen en el gameplay, pero esto hace que mi computadora se ponga algo lenta;Forza Horizon 4
+5;liiilM;El juego ideal para pasar una tarde con amigos en modo multijugador;Forza Horizon 4
+2;RedBull;Es un buen juego de carreras pero la desventaja que existe en el modo online hace que todo empeore;Forza Horizon 4
+2;Bandido;Me gustaría que exista la manera de traspasar la información de otros juegos de la saga;Forza Horizon 4
+5;kolorado;Sus características son totalmente balanceadas ofreciendo un juego totalmente bueno;Forza Horizon 4
+1;agente007;Otra vez con la misma historia de siempre, aburrido…;God of War Ragnarok
+5;tortuga;Esperé por tanto tiempo esta entrega, valió la pena cada segundo. GOTY!;God of War Ragnarok
+1;opinionesGod;Si tan solo pudiera volver en el tiempo, quisiera nunca haber comprado el juego;God of War Ragnarok
+3;kilitos;Me gustó la historia, aunque es algo agresiva que puede asustar;God of War Ragnarok
+2;lol:);La historia de Kratos ya era muy repetitiva, solo quisiera algún otro personaje nuevo;God of War Ragnarok
+4;polito;Ojalá saquen más contenido, me gustó tanto que me terminé el juego en un día;God of War Ragnarok
+2;muundo;Ocupa mucho espacio este juego, me complica la vida;God of War Ragnarok
+1;mnzc;la gente es muy agresiva, deberían haber mejores filtros para esos patanes;League of Legends
+4;qweq;Chevere pero siento que le hacen falta más modos de juego;League of Legends
+3;lolito;El juego vale la pena solo porque es gratis. Es entretenido;League of Legends
+1;oqp;No me gusta para nada, mucha toxicidad;League of Legends
+2;zlopez;Mucha diversidad de campeones diferentes, pero las partidas siempre son similares;League of Legends
+3;Kruger09;El mejor juego aunque no lo se jugar muy bien, le hace falta un mejor tutorial;League of Legends
+5;gamerBoy4;Amo este juego;Forza Horizon 5
+3;jppluas;odio que ocupe tanto espacio en disco duro;Forza Horizon 5
+2;ggez;practicamente el Forza Horizon 4, pero mejorado;Forza Horizon 5
+3;zzzzSleep;siento que cuando completas algunas misiones el juego ya no te da tantas opciones;Forza Horizon 5
+5;dev0r4Mundos;simplemente hermoso, se nota que le ponen dinero a los paisajes;Forza Horizon 5
+4;ironman4455;no comí en varios dias pero valió la pena totalmente;Forza Horizon 5
+3;michael777;si no fuera por el modo online, este juego hubiera muerto hace años;Grand Theft Auto V
+5;qwerty0;el mejor de la saga, no parece que hubiesen pasado ya 9 años de su lanzamiento;Grand Theft Auto V
+4;stuGirl38;si no fuera por los mod menus, lo hubiera dejado de jugar, estas estrellas son para los modders;Grand Theft Auto V
+5;casualplayer;te amo rockstar;Grand Theft Auto V
+1;sadddd;lo compré y luego me fijé que mi computadora no cumple los requisitos :c;Grand Theft Auto V
+2;zizek;Lo mismo de todos los años, pocos cambios;NBA 2K22
+3;colombianoloco;muchos hackers, ademas de eso no es de nueva generacion;NBA 2K22
+5;titicaca;Muy buen juego y muy buenos graficos;NBA 2K22
+1;siegabrou;No compreís esta ***** Ni el 22 ni el 23 ni el 24. 2k junto a EA son los estafadores mas grandes de la historia de los videojuegos;NBA 2K22
+5;monoJorge;triiiiiiiiiiiple de curry;NBA 2K22
+5;nintendero;ame la inspiracion en los mapas antiguos;New Super Mario Bros
+3;poroporo;lo mismo de siempre;New Super Mario Bros
+4;uitery;podría haber sido mejor, mantiene la esencia de Mario;New Super Mario Bros
+1;zzzSleep;demasiado caro para mi, cuando lo sacan gratis?;New Super Mario Bros
+5;abc987;el multijugador es lo mejor, juego con mi novia y lo amamos;New Super Mario Bros
+4;knucles;Es entretenido que este personaje aún se mantenga como los más icónicos;Sonic Frontiers
+1;koulibaly;Quiero creer que este juego es una broma? Quien conoce a sonic??;Sonic Frontiers
+2;pampara;Aunque tiene muchas cosas nuevas, la jugabilidad es muy simple;Sonic Frontiers
+5;dormido;Buen juego, buena historia, buen personaje. Viva sonic!!!!;Sonic Frontiers
+5;lucido;Me gusta demasiado, no pensé que se arriesgaría tanto con sonic pero resultó épico;Sonic Frontiers
+3;v1tenka;Bugueadisimo, pero una siempre vuelve a donde fue feliz :);The Sims 3
+5;duncan;nice game;The Sims 3
+4;maradonnGod;mas completo que el 4 pero por favor bajen los precios de las expansiones!;The Sims 3
+2;sofiaggg;da mucho lag y yo que pensaba que era mi compu vieja pero ahora que tengo una mejor me va regularinchi;The Sims 3
+5;fkHeisenberg;Es muy entretenido;The Sims 3
+3;srGato;Buen juego de construcción y simulación de vida, si no te molesta pagar por 30 DLCs que te ayuden a mejorar la experiencia, este es tu juego;The Sims 4
+1;slashh;Este juego no tiene sentido, como es posible que me gaste 3 lucas en un horno y se me queme 2 horas seguidas? juego malvado;The Sims 4
+5;evavea;muito bomnito 10/10 me gusta pasar 80 horas haciendo un sims y luego olvidarme del juego uwu;The Sims 4
+4;superochi;me encanta;The Sims 4
+5;sarn3x;Se puede hacer choripan;The Sims 4
+1;hater1000;Comparado con Uncharted este juego se queda corto!;Tomb Raider
+2;reyBug;Juego rápido en lo jugable, pero con una historia más mala…;Tomb Raider
+3;easterEgg;Nunca me gustó la saga pero le di una oportunidad y WOW;Tomb Raider
+3;praxx;El personaje llora por todo, pero aun así no le quita lo entretenido; Tomb Raider
+5;kole;Es el pináculo de la evolución. Es un juego hecho con amor;Tomb Raider
+1;019k;Vaya basura de juego, por suerte lo compré en promoción;Tomb Raider
